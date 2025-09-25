@@ -16,6 +16,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^7.0.1",
-        "@fortawesome/vue-fontawesome": "^3.1.2"
+        "@fortawesome/vue-fontawesome": "^3.1.2",
+        "@preline/carousel": "^3.2.3"
     }
 }
